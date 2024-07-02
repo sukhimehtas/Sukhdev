@@ -12,7 +12,7 @@ Driven Data Analyst ,  Skilled in data visualization, data analysis, data cleani
   - 📊 Advanced Excel
   - 🗄️ MySQL
   - 📈 Power BI
-  - 🐍 Python (NumPy, pandas)
+  - 🐍 Python (NumPy, pandas, Matplotlib)
 - **Data Skills:** 
   - 📊 Data Visualization
   - 🧮 Data Analysis
