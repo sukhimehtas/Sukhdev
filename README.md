@@ -55,7 +55,7 @@ Driven Data Analyst ,  Skilled in data visualization, data analysis, data cleani
 
 ### 2.FMCG Promotional Domain Using Power BI / SQL / Python                                                                                 
 - **Tools:** Python, MySQL, Power BI, Excel, PowerPoint
-- **Description:** Analyzed 300,000 rows of road accident data and developed an interactive visualization for detailed insights.
+- **Description:** Analyzed 300,000 rows of Products and developed an interactive visualization for detailed insights.
 
 
 ## 🌱 Interests
