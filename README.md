@@ -13,6 +13,8 @@ Driven Data Analyst ,  Skilled in data visualization, data analysis, data cleani
   - 🗄️ MySQL
   - 📈 Power BI
   - 🐍 Python (NumPy, pandas, Matplotlib)
+  - ⭐ CMS (SDL Tridion , Wordpress , Builder.io)
+  - 💻 Programming (DSA, OOPS)
 - **Data Skills:** 
   - 📊 Data Visualization
   - 🧮 Data Analysis
@@ -29,19 +31,43 @@ Driven Data Analyst ,  Skilled in data visualization, data analysis, data cleani
   - 🇮🇳 Hindi
 
 ## 💼 Experience
-### Data Analyst
+
+### Web Content Editor (Intern)
+**Schneider Electric, Gurugram-IN**  
+*Aug 2024 – Jan 2025*
+- Using SDL Tridion, and Builder.io designed and developed responsive web pages that enhance user experience.
+- Translation Quality feedback implementation for SE websites.
+- Worked on various Web Deployment Sprints which involved deploying content on multiple SE pages.
+- Role involved content review to maintain accuracy and consistency while collaborating with design, development, and marketing teams to deliver cohesive digital experiences.
+
+### Backend Management (Intern)
 **Hero Fincorp, New Delhi**  
-*August 2023 - October 2023*
-- Manipulating data and transform unclean data into clean data
+*August 2022 - October 2022*
+- Using SQL, manipulated and handled all the data and details of customers
+- Leveraged and conducted statistical analysis of user’s information and identified the customer buying behaviors
 
 ## 🎓 Education
-### Masters Of Computer Applications
-**Guru Gobind Singh Indraprastha University , New Delhi**  
+### Master Of Computer Applications
+**Guru Gobind Singh Indraprastha University , New Delhi**
+<br/>
+**GPA:8.1/10.0**
+<br/>
 *2023 - 2025*
 
+### Bachelor Of Computer Applications
+**Guru Gobind Singh Indraprastha University , New Delhi**
+<br/>
+**GPA: 9.2/10.0**  
+*2020 – 2023*
+
+
 ## 📜 Certifications
-- **Hackerank - SQL** - 
-- **Google Process Data From Dirty To Clean**
+- **Hackerank - SQL** - [Hackerrank](https://www.hackerrank.com/certificates/ae9731bb3216)
+- **Google Process Data From Dirty To Clean** - [Google](https://www.coursera.org/account/accomplishments/verify/2D92J7YBETNV)
+- **Advanced SQL** - [Kaggle](https://www.kaggle.com/learn/certification/sukhdevmehta/advanced-sql)
+- **Accenture North America - Data Analytics and Visualization** - [Forage](https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_eC2kpCCzyG8er5aRS_1721721159602_completion_certificate.pdf)
+- **Data Structures in C** - [Great Learning](https://www.mygreatlearning.com/certificate/MVHMJMTT)
+- **Data Science and Machine Learning** - [GeeksForGeeks]
 
 ## 🏆 Achievements
 - 🥈 1st Position in Inter - College Volleyball Tournament
@@ -50,12 +76,15 @@ Driven Data Analyst ,  Skilled in data visualization, data analysis, data cleani
 ## 📊 Projects
 ### 1.Sales Analysis
 - **Tools:** Python, MySQL, Power BI, Excel, PowerPoint
-- **Description:** Imported data from Excel into MySQL using Python, performed data cleaning and analysis in Excel, created an interactive dashboard in Power BI, and presented insights using PowerPoint.
-- 
+- **Description:** Utilized Power BI to analyze sales Data, revealing actionable insights on customer behavior from a dataset featuring 11 columns and over 185K rows.
+- Discovered that December saw a huge increment in sales by 150% valuing to 5M sales as compared to 2M in January.
+- Total Sales for FY 2019-20 were 34M and Total Quantity Sold was 209K Units.
 
 ### 2.FMCG Promotional Domain Using Power BI / SQL / Python                                                                                 
 - **Tools:** Python, MySQL, Power BI, Excel, PowerPoint
 - **Description:** Analyzed 300,000 rows of Products and developed an interactive visualization for detailed insights.
+- Discovered Product with base price greater than 500 that are featured as “BOGOF” Buy One Get One Free.
+- Discovered Total Revenue generated before and after promotion.
 
 
 ## 🌱 Interests
