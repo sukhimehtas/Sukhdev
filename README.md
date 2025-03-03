@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sukhdev-mehta/)
 [![Email](https://img.shields.io/badge/Email-sukhimehta376%40gmail.com-red)](mailto:sukhimehta376@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple)](https://sukhimehtas.github.io/Portfolio/)
+
 
 ## 📋 Professional Summary
 Driven Data Analyst ,  Skilled in data visualization, data analysis, data cleaning, and more. Recognized for attention to detail, strong decision-making, and problem-solving capabilities.
