@@ -1,4 +1,4 @@
-# 🌟 Sukhdev Kumar Mehta - Data Analyst 🌟
+# 🌟 Sukhdev Kumar Mehta🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sukhdev-mehta/)
 [![Email](https://img.shields.io/badge/Email-sukhimehta376%40gmail.com-red)](mailto:sukhimehta376@gmail.com)
@@ -6,8 +6,7 @@
 
 
 ## 📋 Professional Summary
-Driven Data Analyst ,  Skilled in data visualization, data analysis, data cleaning, and more. Recognized for attention to detail, strong decision-making, and problem-solving capabilities.
-
+Recent Computer Science graduate with a strong analytical mindset and programming skills. Gaining experiencein CMS tools like SDL Tridion and Builder.io, data cleaning, data analysis, SQL, Python and Power BI.
 
 ## 🛠️ Skills
 - **Technical Skills:** 
